@@ -1,0 +1,5 @@
+---
+title: "Creating accessible mathematical lecture notes"
+---
+
+This is a guide for developing accessible lecture notes. 
