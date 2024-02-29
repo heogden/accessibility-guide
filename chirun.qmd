@@ -39,13 +39,13 @@ title: "Chirun"
    a zip file. This is also useful for [uploading to
    blackboard](blackboard.qmd).
 
-8. You can save your configuration, to avoid having to repeat step 3 every
-   time you run Chirun (e.g. if you make a change to your notes). To
-   do this, extract the downloaded zip file from step 7, and copy the
-   file "MANIFEST.yml" into the folder with your LaTeX sources
-   files. Rename this file to "config.yml". If you follow
-   the steps again, your previous configuration will be saved, and you
-   can skip over step 3.
+You can save your configuration, to avoid having to repeat step 3
+every time you run Chirun (e.g. if you make a change to your
+notes). To do this, extract the downloaded zip file from step 7, and
+copy the file "MANIFEST.yml" into the folder with your LaTeX sources
+files. Rename this file to "config.yml". If you follow the steps
+again, your previous configuration will be saved, and you can skip
+over step 3.
 
    
 ## Troubleshooting
