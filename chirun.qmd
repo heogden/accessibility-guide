@@ -36,7 +36,8 @@ title: "Chirun"
 6. If the build succeeds, you can view the html lecture notes. 
    
 7. You can also download your lecture notes as processed by Chirun as
-   a zip file. This is also useful for uploading to blackboard.
+   a zip file. This is also useful for [uploading to
+   blackboard](blackboard.qmd).
 
 8. You can save your configuration, to avoid having to repeat step 3 every
    time you run Chirun (e.g. if you make a change to your notes). To
@@ -48,8 +49,10 @@ title: "Chirun"
 
    
 ## Troubleshooting
+
+Here are some issues I have encountered when using Chirun:
    
-1. Chirun is not able to use some LaTeX packages. You may have to
+- Chirun is not able to use some LaTeX packages. You may have to
    simplify your LaTeX code to avoid using such packages. You can try to
    track down packages causing problems by looking in the build log. For
    instance, if I tried to use the fourier package, the build would
@@ -65,13 +68,13 @@ title: "Chirun"
 	searching for the DEBUG section then looking for the first WARNING is
 	useful to track down packages causing problems.
 
-2. Chirun does not work with including pdfs. You will need to convert
+- Chirun does not work with including pdfs. You will need to convert
    any graphics included as pdfs to an image format (e.g. png) first.
 
-3. Chirun sometimes has problems processing tables correctly. You may
+- Chirun sometimes has problems processing tables correctly. You may
    need to simplify the structure of tables.
  
-4. For referencing, Chirun works fine with bibtex, but not biblatex.
+- For referencing, Chirun works fine with bibtex, but not biblatex.
 
  
 
