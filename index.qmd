@@ -9,7 +9,7 @@ on methods to provide notes in html format.
 
 We consider two systems in detail:
 
-- [Chirun](https://chirun.org.uk/) is a tool to convert LaTeX notes to
+- [Chirun](chirun.qmd) is a tool to convert LaTeX notes to
 a variety of accessible formats. It is a good option if you want to
 continue to write your notes in LaTeX. It has a relatively easy-to-use
 online interface which means it can be used without installing
@@ -18,14 +18,14 @@ simplify your original LaTeX code for Chirun to work. Chirun is under
 development and is not yet well documented. Error messages are not
 always straightforward to understand.
    
-- [quarto](https://quarto.org/) is a system which converts markdown
+- [Quarto](quarto.qmd) is a system which converts markdown
 notes into a wide variety of formats. It is a good option if you are
 happy to convert your LaTeX notes into markdown format, then work with
 the markdown notes (rather than the original LaTeX source) when you
 need to make changes. You can automatically convert LaTeX lecture
 notes into markdown format, which can be a helpful starting point, but
 the conversion is not perfect and you will need to make changes to get
-quarto working. Quarto is well documented. You can include R or python
+Quarto working. Quarto is well documented. You can include R or python
 code easily.
    
 Using either system, once notes are converted to html format, we then
