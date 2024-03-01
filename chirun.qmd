@@ -5,9 +5,9 @@ title: "Chirun"
 ## Using the online interface to Chirun
 
 1. Compress the folder containing LaTeX notes to a zip file. As an
-   example, we will use these [simple example LaTeX
-   notes](https://github.com/heogden/simple) (which are based on
-   material from Wikipedia). You can download a zip file of these
+   example, we will use the [simple example LaTeX
+   notes](https://github.com/heogden/simple).
+   You can download a zip file of these
    example notes,
    [simple-main.zip](https://github.com/heogden/simple/archive/refs/heads/main.zip).
 
