@@ -67,7 +67,7 @@ entirely straightforward, and is likely to take some time).
    
 3. At this stage, you can run quarto to preview the output. If you are
    using RStudio, you can press the "Render" button. From the command
-   line, type "quarto render".
+   line, type "quarto preview".
    
 4. There are likely to be problems with the output. Here are
    problems which needed fixing with the simple example notes:
