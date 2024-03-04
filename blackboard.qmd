@@ -6,10 +6,12 @@ title: "Uploading to Blackboard"
 These instructions are for the "original" Blackboard
 (rather than "Ultra").
 
-1. Compress the folder containing the html notes to a zip file. For
-   Chirun, you can use the zip file downloaded from the Chirun online
-   interface directly (e.g. 
-   [simple-chirun-main.zip](https://github.com/heogden/simple-chirun/archive/refs/heads/main.zip)). 
+1. Compress the folder containing the html notes to a zip file. After
+   following these instructions, students will be able to access all
+   files in this folder, so don't include anything you wouldn't want
+   students to see, such as solutions. For Chirun, you can use the zip
+   file downloaded from the Chirun online interface directly (e.g.
+   [simple-chirun-main.zip](https://github.com/heogden/simple-chirun/archive/refs/heads/main.zip)).
    For Quarto, compress the "_notes" folder.
 
 2. Go to your Blackboard course. Under "Course Management", click on
@@ -25,11 +27,10 @@ These instructions are for the "original" Blackboard
    or write some accompanying text on Blackboard) or "File" (to link
    directly to one document). Click "Browse Course Files", and locate
    "index.html". You will be asked about how to manage access to the
-   files in the folder: I suggest "Give users access to this file
-   only" (students will still be able to access all files which are
-   linked in your notes).  If you chose to create a "File", I suggest
-   changing the option "Open in New Window" to "Yes".  Then click
-   "Submit".
+   files in the folder: all html features should work if you choose
+   the default "Give users access to all files and folders in the
+   folder".  If you chose to create a "File", I suggest changing the
+   option "Open in New Window" to "Yes".  Then click "Submit".
  
 To update your notes on Blackboard after making changes, repeat step 1
 to get a new zip file with the updated files. Then repeat step 2 to
