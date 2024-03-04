@@ -58,6 +58,10 @@ files. Rename this file to "config.yml". If you follow the steps
 again, your previous configuration will be saved, and you can skip
 over step 3.
 
+For the simple example notes, here is the [content after processing
+with Chirun](https://github.com/heogden/simple-chirun) and the
+[resulting html notes](https://heogden.github.io/simple-chirun/).
+
    
 ## Troubleshooting
 
