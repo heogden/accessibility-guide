@@ -147,4 +147,7 @@ entirely straightforward, and is likely to take some time).
    
    Once any errors are fixed, this will make the folder "_book",
    containing the html and pdf notes. You will use this folder if you
-   want to [upload to Blackboard](blackboard.qmd).
+   want to [upload to Blackboard](blackboard.qmd). As an alternative
+   (if you don't mind your notes being publicly available) it is easy
+   to [publish Quarto documents
+   online](https://quarto.org/docs/publishing/).
