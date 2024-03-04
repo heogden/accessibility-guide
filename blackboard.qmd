@@ -8,8 +8,9 @@ These instructions are for the "original" Blackboard
 
 1. Compress the folder containing the html notes to a zip file. For
    Chirun, you can use the zip file downloaded from the Chirun online
-   interface directly (e.g. simple-chirun-output.zip). For Quarto,
-   compress the "_notes" folder.
+   interface directly (e.g. 
+   [simple-chirun-main.zip](https://github.com/heogden/simple-chirun/archive/refs/heads/main.zip)). 
+   For Quarto, compress the "_notes" folder.
 
 2. Go to your Blackboard course. Under "Course Management", click on
    "Files", then the name of your course. Press "Upload" -> "Upload
