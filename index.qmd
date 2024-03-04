@@ -3,9 +3,21 @@ title: "Creating accessible mathematical lecture notes"
 ---
 
 This is an in-development guide for writing accessible lecture notes
-in Mathematical Sciences, which are typically written in LaTeX, and
-provided to students in pdf format. This main focus of this guide is
-on methods to provide notes in html format.
+in Mathematical Sciences. Our notes are typically written in LaTeX,
+and provided to students in pdf format. At the moment, equations in
+pdfs are typically [not correctly interpreted by screen
+readers](https://youtu.be/BsTqEjTIILQ). The content is displayed in a
+fixed format, and often that format is difficult for dyslexic people
+to read (see the [Dyslexia friendly style
+guide](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide)
+for advice on this).
+
+The main focus of this guide is on methods to provide notes in html
+format. Screen readers can handle MathJax equations in html, and the
+html output from the tools described below is typically easier to read
+for dyslexic people than pdfs produced by LaTeX. Providing notes in
+html format will not fix all accessibility issues, but it is a good
+place to start.
 
 To demonstrate methods, I will use some [simple example LaTeX
    notes](https://github.com/heogden/simple) (which are based on
