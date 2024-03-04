@@ -4,6 +4,14 @@ title: "Quarto"
 
 ## Introduction
 
+[Quarto](https://quarto.org/) is a system to convert from markdown
+files to a range of formats, including html and pdf. It is based on [R
+Markdown](https://rmarkdown.rstudio.com/), but is aimed at a more
+general audience, rather than just R users. If you have previously
+written files in R Markdown (or [bookdown](https://bookdown.org/)),
+there is no need to switch to Quarto. You can Quarto files in RStudio
+or any text editor.
+
 You will first need to [install Quarto](https://quarto.org/docs/get-started/).
 
  If you are starting from scratch, you can follow the [guide
