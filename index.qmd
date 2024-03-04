@@ -33,8 +33,9 @@ documented. Here are the [example notes from
 Quarto](https://heogden.github.io/simple-quarto).
 
 It is likely that you will need to simplify your original LaTeX code
-to get either system to work. Conversion to Quarto is likely to
-require more changes than processing with Chirun.
+to get either system to work, for instance reducing dependence on
+LaTeX packages. Conversion to Quarto is likely to require more changes
+than processing with Chirun.
    
 I have also provided some guidance on [uploading html notes to
 blackboard](blackboard.qmd).
