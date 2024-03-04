@@ -1,0 +1,40 @@
+---
+title: "Creating accessible mathematical lecture notes"
+---
+
+This is an in-development guide for writing accessible lecture notes
+in Mathematical Sciences, which are typically written in LaTeX, and
+provided to students in pdf format. This main focus of this guide is
+on methods to provide notes in html format.
+
+To demonstrate methods, I will use some [simple example LaTeX
+   notes](https://github.com/heogden/simple) (which are based on
+   material from Wikipedia). 
+
+I will give instructions on how to use two systems to convert to html
+format:
+
+- [Chirun](chirun.qmd) is a good option if you want to continue to
+write your notes in LaTeX. It has a relatively easy-to-use online
+interface which means it can be used without installing anything on
+your own computer. Chirun is is under development and is not yet well
+documented. Here are the [example notes from
+Chirun](https://heogden.github.io/simple-chirun). Chirun is
+specifically focused on accessibility, and allows users to change the
+font, spacing and background colour which may be helpful for dyslexic
+students.
+
+- [Quarto](quarto.qmd) is is a good option if you are happy to convert
+your LaTeX notes into markdown format, then work with the markdown
+notes (rather than the original LaTeX source) from then on. It is
+based on R Markdown, but is designed for a wider range of users, and
+you can include R or python code easily. Quarto is well
+documented. Here are the [example notes from
+Quarto](https://heogden.github.io/simple-quarto).
+
+It is likely that you will need to simplify your original LaTeX code
+to get either system to work. Conversion to Quarto is likely to
+require more changes than processing with Chirun.
+   
+I have also provided some guidance on [uploading html notes to
+blackboard](blackboard.qmd).
