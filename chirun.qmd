@@ -5,7 +5,7 @@ title: "Chirun"
 ## Introduction
 
 [Chirun](https://chirun.org.uk/) is a system to convert LaTeX notes to
-a range of formats, includingn html.  Here is the [Chirun
+a range of formats, including html.  Here is the [Chirun
 documentation](https://chirun.org.uk/docs/): Chirun is in development
 and the documentation may be incomplete.  Chirun can be run either
 with a Python package (requiring
