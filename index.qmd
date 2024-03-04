@@ -29,7 +29,7 @@ format:
 - [Chirun](chirun.qmd) is a good option if you want to continue to
 write your notes in LaTeX. It has a relatively easy-to-use online
 interface which means it can be used without installing anything on
-your own computer. Chirun is is under development and the
+your own computer. Chirun is under development and the
 [documentation](https://chirun.org.uk/docs/) is currently incomplete.
 Here are the [example notes from
 Chirun](https://heogden.github.io/simple-chirun). Chirun is
