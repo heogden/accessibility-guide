@@ -51,4 +51,4 @@ LaTeX packages. Conversion to Quarto is likely to require more changes
 than processing with Chirun.
    
 I have also provided some guidance on [uploading html notes to
-blackboard](blackboard.qmd).
+Blackboard](blackboard.qmd).
