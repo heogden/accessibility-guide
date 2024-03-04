@@ -9,8 +9,11 @@ files to a range of formats, including html. It is based on [R
 Markdown](https://rmarkdown.rstudio.com/), but is aimed at a more
 general audience, rather than just R users. If you have previously
 written files in R Markdown (or [bookdown](https://bookdown.org/)),
-there is no need to switch to Quarto. You can edit Quarto markdown
-files in RStudio or any text editor.
+there is no need to switch to Quarto. [VS
+code](https://code.visualstudio.com/) and
+[RStudio](https://posit.co/download/rstudio-desktop/) both have good
+support for Quarto, or you can edit Quarto markdown files in any text
+editor and use the command line to process the files.
 
 You will first need to [install Quarto](https://quarto.org/docs/get-started/).
 
@@ -66,8 +69,8 @@ entirely straightforward, and is likely to take some time).
    in a file called index.qmd.
    
 3. At this stage, you can run quarto to preview the output. If you are
-   using RStudio, you can press the "Render" button. From the command
-   line, type "quarto preview".
+   using VS Code or RStudio, you can press the "Render" button. From
+   the command line, type "quarto preview".
    
 4. There are likely to be problems with the output. Here are
    problems which needed fixing with the simple example notes:
