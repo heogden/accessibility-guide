@@ -2,6 +2,17 @@
 title: "Chirun"
 ---
 
+## Introduction
+
+[Chirun](https://chirun.org.uk/) is a system to convert LaTeX notes to
+a range of formats, includingn html.  Here is the [Chirun
+documentation](https://chirun.org.uk/docs/): Chirun is in development
+and the documentation may be incomplete.  Chirun can be run either
+with a Python package (requiring
+[installation](https://chirun.org.uk/docs/en/latest/cli/install.html)),
+or an [online interface](https://lti.chirun.org.uk/) (not requiring
+installation). I will describe using the online interface below.
+
 ## Using the online interface to Chirun
 
 1. Compress the folder containing LaTeX notes to a zip file. As an

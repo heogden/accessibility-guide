@@ -17,8 +17,9 @@ format:
 - [Chirun](chirun.qmd) is a good option if you want to continue to
 write your notes in LaTeX. It has a relatively easy-to-use online
 interface which means it can be used without installing anything on
-your own computer. Chirun is is under development and is not yet well
-documented. Here are the [example notes from
+your own computer. Chirun is is under development and the
+[documentation](https://chirun.org.uk/docs/) is currently incomplete.
+Here are the [example notes from
 Chirun](https://heogden.github.io/simple-chirun). Chirun is
 specifically focused on accessibility, and allows users to change the
 font, spacing and background colour which may be helpful for dyslexic
@@ -29,7 +30,7 @@ your LaTeX notes into markdown format, then work with the markdown
 notes (rather than the original LaTeX source) from then on. It is
 based on R Markdown, but is designed for a wider range of users, and
 you can include R or python code easily. Quarto is well
-documented. Here are the [example notes from
+[documented](https://quarto.org/docs/guide/). Here are the [example notes from
 Quarto](https://heogden.github.io/simple-quarto).
 
 It is likely that you will need to simplify your original LaTeX code
