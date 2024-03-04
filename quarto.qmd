@@ -156,6 +156,9 @@ entirely straightforward, and is likely to take some time).
    the simple example notes, I got an error, which was fixed by
    explicitly stating the file ending of included graphics files.)
    
+   For the simple example notes, here is the [source after conversion
+   to Quarto](https://github.com/heogden/simple-quarto) format.
+   
    Once any errors are fixed, this will make the folder "_book",
    containing the html and pdf notes. You will use this folder if you
    want to [upload to Blackboard](blackboard.qmd). As an alternative
