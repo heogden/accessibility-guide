@@ -50,7 +50,7 @@ work than converting the simple example notes. It is likely that you
 will need to simplify your original LaTeX code to get either system to
 work, for instance reducing dependence on LaTeX packages.  Conversion
 to Quarto is likely to require more changes than processing with
-Chirun. With either system,
+Chirun. 
    
 I have also provided some guidance on [uploading html notes to
 Blackboard](blackboard.qmd).
