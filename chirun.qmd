@@ -44,7 +44,9 @@ installation). I will describe using the online interface below.
    some changes to your notes (see
    [Troubleshooting](chirun.qmd#troubleshooting)).
    
-6. If the build succeeds, you can view the html lecture notes. 
+6. If the build succeeds, you can view the html lecture notes. Check
+   the whole text carefully: even if the build succeeds, there might
+   be problems, e.g. with symbols, tables or custom formatting.
    
 7. You can also download your lecture notes as processed by Chirun as
    a zip file. This is also useful for [uploading to

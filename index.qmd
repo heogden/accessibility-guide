@@ -45,10 +45,12 @@ you can include R or python code easily. Quarto is well
 [documented](https://quarto.org/docs/guide/). Here are the [example notes from
 Quarto](https://heogden.github.io/simple-quarto).
 
-It is likely that you will need to simplify your original LaTeX code
-to get either system to work, for instance reducing dependence on
-LaTeX packages. Conversion to Quarto is likely to require more changes
-than processing with Chirun.
+Converting your real notes is likely to require substantially more
+work than converting the simple example notes. It is likely that you
+will need to simplify your original LaTeX code to get either system to
+work, for instance reducing dependence on LaTeX packages.  Conversion
+to Quarto is likely to require more changes than processing with
+Chirun. With either system,
    
 I have also provided some guidance on [uploading html notes to
 Blackboard](blackboard.qmd).
