@@ -21,7 +21,8 @@ place to start.
 
 To demonstrate methods, I will use some [simple example LaTeX
    notes](https://github.com/heogden/simple) (which are based on
-   material from Wikipedia). 
+   material from Wikipedia). Here is the [pdf version of the
+   notes](https://heogden.github.io/simple-chirun/lecture_notes/pdf/notes.pdf).
 
 I will give instructions on how to use two systems to convert to html
 format:
