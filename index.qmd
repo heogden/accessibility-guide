@@ -43,8 +43,10 @@ your LaTeX notes into markdown format, then work with the markdown
 notes (rather than the original LaTeX source) from then on. It is
 based on R Markdown, but is designed for a wider range of users, and
 you can include R or python code easily. Quarto is well
-[documented](https://quarto.org/docs/guide/). Here are the [example notes from
-Quarto](https://heogden.github.io/simple-quarto).
+[documented](https://quarto.org/docs/guide/). Here are the [example
+notes from Quarto](https://heogden.github.io/simple-quarto). The
+Quarto output is easier to navigate with a screen reader than the
+Chirun output.
 
 Converting your real notes is likely to require substantially more
 work than converting the simple example notes. It is likely that you
