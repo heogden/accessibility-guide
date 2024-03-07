@@ -93,5 +93,9 @@ Here are some issues I have encountered when using Chirun:
  
 - For referencing, Chirun works fine with bibtex, but not biblatex.
 
- 
+- The compiler used by Chirun is stricter than some other LaTeX
+  compilers (such as pdflatex). For instance, in one case where a
+  command was defined after its first use, pdflatex worked but Chirun
+  did not. In that case, Chirun worked fine once the order was
+  fixed. You may need to spend some time tidying up your LaTeX code.
 
