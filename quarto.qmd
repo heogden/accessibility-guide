@@ -66,7 +66,10 @@ entirely straightforward, and is likely to take some time).
    to "markdown". Copy and paste output into a .qmd file with same
    name as each Chapter's .tex file. The content which you would like
    to appear on the first page when the notes are viewed should appear
-   in a file called index.qmd.
+   in a file called index.qmd. In case you do not have the LaTeX
+   source for your notes, [Mathpix](https://mathpix.com/) is a useful
+   tool to convert straight from pdf to markdown (but the output will
+   need careful checking).
    
 3. At this stage, you can run quarto to preview the output. If you are
    using VS Code or RStudio, you can press the "Render" button. From
