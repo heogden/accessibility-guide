@@ -3,8 +3,6 @@ title: "Uploading to Blackboard"
 ---
 
 
-These instructions are for the "original" Blackboard
-(rather than "Ultra").
 
 1. Compress the folder containing the html notes to a zip file. After
    following these instructions, students will be able to access all
@@ -14,23 +12,38 @@ These instructions are for the "original" Blackboard
    [simple-chirun-main.zip](https://github.com/heogden/simple-chirun/archive/refs/heads/main.zip)).
    For Quarto, compress the "_notes" folder.
 
-2. Go to your Blackboard course. Under "Course Management", click on
-   "Files", then the name of your course. Press "Upload" -> "Upload
-   Zip Package", and upload your zip file, which will automatically
-   extract the contents of the zip file.  (If unpacking the contents
-   of the zip file at the top level of your Blackboard course files
-   could create confusion, first press "Create Folder" and make a
-   folder specifically for storing your notes)
+2. Go to your Blackboard course. 
+
+   On Blackboard Original (not Ultra): under "Course Management", click on
+   "Files", then the name of your course.
    
-3. When you want to link to your notes (e.g. in Course Content), click
-   "Build Content", then either "Item" (to link to multiple documents,
-   or write some accompanying text on Blackboard) or "File" (to link
-   directly to one document). Click "Browse Course Files", and locate
+   On Blackboard Ultra: Click the "plus" icon to add a
+   section/content. Choose "Content Collection", click on "Browse
+   Content Collection".
+   
+   On either version: Press "Upload" -> "Upload Zip Package", and
+   upload your zip file, which will automatically
+   extract the contents of the zip file.  
+   It is recommended to first press "Create Folder" and make a folder
+   specifically for storing your notes.
+   
+3. To link to your notes:
+
+	On Blackboard Original (not Ultra): click "Build Content", then
+   either "Item" (to link to multiple documents, or write some
+   accompanying text on Blackboard) or "File" (to link directly to one
+   document). Click "Browse Course Files", and locate
    "index.html". You will be asked about how to manage access to the
    files in the folder: all html features should work if you choose
    the default "Give users access to all files and folders in the
    folder".  If you chose to create a "File", I suggest changing the
    option "Open in New Window" to "Yes".  Then click "Submit".
+   
+   On Blackboard Ultra: after following instructions in step 2, locate
+   "index.html". Select it and press submit. By default, this will
+   give a link to the notes with the name "index.html", but this can
+   be changed by pressing the three dots, "Edit", and changing the
+   item name. Press Save.
  
 To update your notes on Blackboard after making changes, repeat step 1
 to get a new zip file with the updated files. Then repeat step 2 to
