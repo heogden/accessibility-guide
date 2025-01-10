@@ -22,10 +22,9 @@ title: "Uploading to Blackboard"
    Content Collection".
    
    On either version: Press "Upload" -> "Upload Zip Package", and
-   upload your zip file, which will automatically
-   extract the contents of the zip file.  
-   It is recommended to first press "Create Folder" and make a folder
-   specifically for storing your notes.
+   upload your zip file, which will automatically extract the contents
+   of the zip file. It is recommended to first press "Create Folder"
+   and make a folder specifically for storing your notes.
    
 3. To link to your notes:
 
